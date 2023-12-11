@@ -24,7 +24,26 @@ can you you please create a small essay of ~200 words with keywords [buddy bard,
 ```
 used in: https://dondon.ai/notebook/2023/undersea-cables-by-buddy-bard/
 
+
+## thanksgiving (#3)
+
+```
+can you you please create a small essay of ~200 words with keywords [buddy bard, thanksgiving] on the topic of [thanksgiving and the top news story in AI]
+```
+used in: https://dondon.ai/notebook/2023/buddy-bard-gives-thanks-to-itself-on-this-thanksgiving-day/
+
+
+
+## gemini pro (#4)
+
+```
+can you you please create a small essay of ~200 words with keywords [buddy bard, Gemini] on the topic of [Google Gemini Pro]
+```
+used in: https://dondon.ai/notebook/2023/buddy-bard-powered-by-gemini-pro/
+
+
+
 ---
 
-more to fill in always "soon" ...
+. . . \/\/
 
