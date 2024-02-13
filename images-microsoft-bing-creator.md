@@ -20,3 +20,20 @@ https://dondon.ai/notebook/2023/auto-complete-numbers-with-bing-chat/
 
 #### related
 [link](https://dondon.ai/notebook/2023/buddy-bard-gives-thanks-to-itself-on-this-thanksgiving-day/)https://dondon.ai/notebook/2023/buddy-bard-gives-thanks-to-itself-on-this-thanksgiving-day/
+
+
+## prompt 2/12/2024 - earthquake fish
+`please create an image of Isometric art of an earthquake fish, dreamy summer color palette, aesthetics, minimal design`
+
+
+`please create an image of Isometric art of an angler fish, earthquake, dreamy summer color palette, aesthetics, minimal design`
+
+
+### result
+https://dondon.ai/notebook/wp-content/uploads/2024/02/Designer-3.png
+
+#### related
+https://dondon.ai/notebook/2024/earthquake-fish/
+
+
+--
