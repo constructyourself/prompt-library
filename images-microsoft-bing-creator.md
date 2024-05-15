@@ -36,4 +36,16 @@ https://dondon.ai/notebook/wp-content/uploads/2024/02/Designer-3.png
 https://dondon.ai/notebook/2024/earthquake-fish/
 
 
+
+## prompt 5/14/2024 - omni
+`please create an image of Isometric art of a river system, dreamy summer color palette, aesthetics, minimal design`
+
+### result
+[https://dondon.ai/notebook/wp-content/uploads/2024/02/Designer-3.png
+](https://dondon.ai/notebook/wp-content/uploads/2024/05/DALL·E-2024-05-14-23.28.58-An-isometric-art-style-depiction-of-a-river-system-utilizing-a-dreamy-summer-color-palette.-The-design-should-be-minimalistic-emphasizing-aesthetics.webp)
+
+#### related
+[https://dondon.ai/notebook/2024/earthquake-fish/](https://dondon.ai/notebook/2024/ask-omni-engineer-a-prompt/)
+
+
 --
